@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>landingpagearq</title>
+</head>
+<body>
+    <!--menusuperior-->
+    <div id="menusuperior">
+        <h1 id="texto1">Tradição em projetos de arquitetura</h1>
+        <p id="texto2">Arquitetura residencial e comercial. </p>
+        
+    </div>
+    <!--menuinformacional-->
+    <div class="container">
+        <div class="item"><strong>850</strong> <br> empreendimentos contruídos</div>
+        <div class="item"><strong>40</strong> <br> anos de mercado e experiência</div>
+        <div class="item"><strong>2,000,000</strong> <br> m² contruídos</div>
+     </div>
+     <!--menu com texto e foto-->
+     <div class="menutextoefoto">
+        <p class="textomenu"><span style="font-size: 40px; font-weight: bold;">
+            Arquitetos com História e Experiência. </span> <br> <br>
+             Nós realizamos desde 2002 projetos e gerenciamento de obras. <br>
+             Com mais de 800 projetos e 2.000.000 de m² construídos, tendo <br>
+            como principal proposta transformar em realidade os sonhos de <br>
+            seus clientes, criando projetos personalizados, unindo a tradição <br>
+            e a modernidade em nossos projetos.</p>
+            <img src="imagens/fotomenu.svg" alt="error">
+     </div>
+</body>
+</html>
